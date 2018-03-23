@@ -1,0 +1,10 @@
+{
+    "description": "A JSBL Global Studies Research Guide",
+    "structure":{
+        "readme":"intro.md"
+    },
+    "title":"Global Studies Research Guide",
+    "variables": {
+        "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/lcarroll.md"        
+    }
+}
