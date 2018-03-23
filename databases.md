@@ -57,6 +57,3 @@
 ### [Voces: A Journal of Chicana/Latina Studies](http://www.jstor.org.summit.csuci.edu:2048/journal/vocjchilatstu)
 
 > A journal published by Mujeres Activas en Letras y Cambio Social \(MALCS\), an organization of Chicanas/Latinas and Native American women working in academia and the community to support Chicana/Latina and Native American women's issues.
-
-
-

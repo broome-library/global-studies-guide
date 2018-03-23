@@ -2,7 +2,7 @@
 
 ## [Las Venas Abiertas de Amèrica Latina](http://unefa.edu.ve/CMS/administrador/vistas/archivos/las-venas-abiertas-de-america-latina.pdf)
 
-> _An electronic book_by Eduardo Galeano _on culture and civilization of Latin America._
+> An electronic book by Eduardo Galeano on culture and civilization of Latin America.
 
 ## [Ciudad Seva](http://ciudadseva.com/)
 
@@ -23,6 +23,3 @@
 ## [Journal of Latina/o Psychology](http://www.apa.org/pubs/journals/lat/)
 
 > _"The Journal of Latina/o Psychology is committed to publishing scholarly writing on research, practice, advocacy, education, and policy relevant to Latino communities. The journal publishes empirical, theoretical, methodological, and applied research."_
-
-
-

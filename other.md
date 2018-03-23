@@ -21,7 +21,4 @@
 
 ### [SCOLT - Foreign Language Associations](http://www.scolt.org/index.php/foreign-language-associations)
 
-> Southern Conference on Language Teaching \(SCOLT\) compiled this list of_ "important groups, associations, and organizations that provide resources and leadership for the advancement of research and study in the area of foreign language."_
-
-
-
+> Southern Conference on Language Teaching \(SCOLT\) compiled this list of _"important groups, associations, and organizations that provide resources and leadership for the advancement of research and study in the area of foreign language."_
