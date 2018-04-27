@@ -13,10 +13,10 @@ GitBooks is brought to by the same people that host and maintain GitHub.  As suc
 #### [GitBook Account Page](https://www.gitbook.com/@broome-library)
 > The base page lists all available/created books withing the broome-library account.  If logged in provides links to change settings and edit account.
 
-#### [Global Studies Research Guide Details Page](https://www.gitbook.com/book/broome-library/global-studies-guide/details)
+#### [Global Languages Research Guide Details Page](https://www.gitbook.com/book/broome-library/global-studies-guide/details)
 > The details page is the landing page for the Global Studies Research Guide GitBook.  It displays the introduction as well as provides links to edit the settings or the book pages if logged in.
 
-#### [Global Studies Research Guide Content URL](https://broome-library.gitbooks.io/global-studies-guide/content)
+#### [Global Languages Research Guide Content URL](https://broome-library.gitbooks.io/global-studies-guide/content)
 > The content URL is a direct link to this research guide. This is the link used in on the Library's [Research Guide by Subject](https://library.csuci.edu/research/dbases-subject.htm) page.
 
 ### GitHub Repository
